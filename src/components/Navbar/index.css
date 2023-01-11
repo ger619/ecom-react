@@ -1,0 +1,11 @@
+nav {
+  background: #61dafb;
+    display: flex;
+
+}
+
+li {
+  list-style: none;
+  display: inline;
+  margin-right: 4rem;
+}
